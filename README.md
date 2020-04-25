@@ -1,0 +1,30 @@
+# Rotect
+### Preface
+In Australia, 40 percent of frontline workers in a New South Wales survey reported increased requests for help with violence that was escalating in intensity. In the previous 12 months, 243 million women and girls (aged 15-49) across the world have been subjected to sexual or physical violence by an intimate partner. As the COVID-19 pandemic continues
+with less than 40 per cent of women who experience violence seeking help of any sort or reporting the crime. Less than 10 percent of those women seeking help go to the police. The current circumstances make reporting even harder, including limitations on women’s and girls’ access to phones and helplines and disrupted public services like police, justice and social services. These disruptions may also be compromising the care and support that survivors need, like clinical management of rape, and mental health and psycho-social support. According to statistics released by the United Nations, reports of domestic violence in France increased 30 percent following the country’s lockdown on March 17; during the first two weeks of lockdowns in Spain, the emergency number for domestic violence received 18 percent more calls; and help lines in Singapore have received 30 percent more calls. As NBC News reported, law enforcement agencies across the U.S. have seen domestic violence cases rise up to 35 percent in recent weeks. This “shadow pandemic,” as U.N. experts are calling it, knows no borders. Keep in mind that before the pandemic hit, one in five women who had ever been in a couple reported experiencing sexual or physical violence by an intimate partner in the last year. Consider, too, that 50 percent of domestic abuse cases go unreported. As with so many devastating consequences of the coronavirus pandemic, this moment has revealed and exacerbated underlying, preexisting conditions of structural violence. The staggering recent statistics should produce a societal reckoning with the presumption that the nuclear household is a place of safety to be preserved — only occasionally a site of violence. But we can’t think of the pre-pandemic prevalence of domestic violence as a tolerable “normal” to aim towards.
+
+### Problem Domain
+
+To be updated
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
