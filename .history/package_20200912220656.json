@@ -1,0 +1,23 @@
+{
+  "name": "rotect",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "concurrently": "^5.3.0"
+  },
+  "devDependencies": {
+  },
+  "scripts": {
+    "rotect-server": "yarn workspace rotect-server start",
+    "rotect-doa": "yarn workspace rotect-doa start",
+    "rotect-whatsapp": "yarn workspace rotect-whatsapp start",
+    "start": "concurrently --kill-others-on-fail \"yarn\"   \"yarn rotect-doa\"  "
+  },
+  "author": "",
+  "license": "ISC",
+  "private": true,
+  "workspaces": [
+    "packages/
+  ]
+}

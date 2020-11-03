@@ -5,8 +5,8 @@ node_modules/
 dist/
 **/node_modules
 /node_modules
-
-
+/embarkArtifacts
+/config
 # local env files
 .env.local
 .env.*.local
@@ -24,3 +24,4 @@ yarn-error.log*
 *.njsproj
 *.sln
 *.sw?node_modules/
+.embark
